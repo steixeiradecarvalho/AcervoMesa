@@ -73,8 +73,8 @@ a {
     justify-content: center;
     text-align: center;
     color: var(--text-light);
-    /* Imagem temporária (boneco) - Substituir pela foto real */
-    background: url('https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&w=1920&q=80') no-repeat center center;
+    /* IMAGEM LOCAL ATUALIZADA AQUI */
+    background: url('assets/images/IMAGEM_HERO.webp') no-repeat center center;
     background-size: cover;
 }
 
